@@ -16,3 +16,5 @@ This example shows a yeomam scaffolded ASP.NET MVC application running on Mac OS
 * From a browser point to http://localhost:5001
 
 * To enter a name and have it display use: http://localhost:5001/Home/Hello?name=John
+
+![alt tag](https://raw.githubusercontent.com/jgon/asp.net-mac-osx/master/RunningAppScreenshot.png)
