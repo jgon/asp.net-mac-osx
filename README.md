@@ -20,11 +20,13 @@ In Visual Studio Code:
   
 ## Using the application
 
-To use the application on your local machine, launch a browser using the following URL: 
+To use the application on your local machine, launch a browser at the following URL: 
 
        http://localhost:5001
 
-Additionally you can enter a name and have it display using the following URL using in this case John: 
+Additionally you can enter a name as a query parameter.
+
+As an example using John as a query parameter: 
 
         http://localhost:5001/Home/Hello?name=John
 
