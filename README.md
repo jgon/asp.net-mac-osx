@@ -13,7 +13,8 @@ The application has been created using yeoman ``aspnet`` generator.
 
 * From Visual Studio Code 
 
-        ```command key + shift + p```
+        command key + shift + p
+        
  and select kestrel
 
 * From a browser point to 
