@@ -1,4 +1,4 @@
-# ASP.NET on Mac OSX
+# ASP.NET 5 MVC on Mac OSX
 
 This project illustrates a simple ASP.NET 5 MVC application running out of the box on Mac OSX.
 
