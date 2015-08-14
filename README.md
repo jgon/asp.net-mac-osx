@@ -1,17 +1,17 @@
 # ASP.NET on Mac OSX
 
-This example shows a yeomam scaffolded ASP.NET MVC application running on Mac OSX. 
+This project demonstrates the result of a yeomam scaffolded ASP.NET MVC application running on Mac OSX.
 
 ## Prerequistes
 
-- Visual Studio Code
+- Visual Studio Code (on Mac)
 - ASP.NET Mac OSX
 
 ## Running the application
 
 * From Visual Studio Code 
 
-        command key + shit + p and select kestrel
+        ``command key + shift + p`` and select kestrel
 
 * From a browser point to 
 
