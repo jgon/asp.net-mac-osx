@@ -26,7 +26,7 @@ To use the application on your local machine, launch a browser at the following 
 
 Additionally you can enter a name as a query parameter.
 
-As an example using John as a query parameter: 
+As an example using ``John`` as a query parameter: 
 
         http://localhost:5001/Home/Hello?name=John
 
