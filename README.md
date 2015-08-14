@@ -1,27 +1,28 @@
 # ASP.NET on Mac OSX
 
-This project shows a simple ASP.NET 5 MVC application running out of the box on Mac OSX.
+This project illustrates a simple ASP.NET 5 MVC application running out of the box on Mac OSX.
 
-The application has been created using yeoman ``aspnet`` generator.
+The application has been created using **``yeoman aspnet``** generator.
 
 ## Prerequistes
 
-- Visual Studio Code on Mac OSX
-- ASP.NET 5 Mac OSX
+- Visual Studio Code on Mac OSX ([download](https://code.visualstudio.com/Download))
+- ASP.NET 5 Mac OSX (TBD)
 
 ## Running the application
 
-* From Visual Studio Code 
+In Visual Studio Code: 
 
-        command key + shift + p
-        
- and select kestrel
+        1. ``command + shift + p`` keys
+        2. **select kestrel**
+  
+## Using the application
 
-* From a browser point to 
+To use the application launch a browser using the following URL: 
 
-        http://localhost:5001
+       ``http://localhost:5001``
 
-* To enter a name and have it display use: 
+Additionally you can enter a name and have it display using the following URL using in this case John: 
 
         http://localhost:5001/Home/Hello?name=John
 
