@@ -6,6 +6,8 @@ The application has been created using **``yeoman aspnet``** generator.
 
 ## Prerequistes
 
+To run the application you need the following software installed on your machine:
+
 - Visual Studio Code on Mac OSX ([download](https://code.visualstudio.com/Download))
 - ASP.NET 5 Mac OSX (TBD)
 
@@ -18,7 +20,7 @@ In Visual Studio Code:
   
 ## Using the application
 
-To use the application launch a browser using the following URL: 
+To use the application on your local machine, launch a browser using the following URL: 
 
        http://localhost:5001
 
