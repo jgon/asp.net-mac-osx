@@ -13,14 +13,14 @@ The application has been created using **``yeoman aspnet``** generator.
 
 In Visual Studio Code: 
 
-        1. ``command + shift + p`` keys
-        2. **select kestrel**
+        1. command + shift + p keys
+        2. select kestrel
   
 ## Using the application
 
 To use the application launch a browser using the following URL: 
 
-       ``http://localhost:5001``
+       http://localhost:5001
 
 Additionally you can enter a name and have it display using the following URL using in this case John: 
 
