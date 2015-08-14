@@ -1,13 +1,13 @@
 # ASP.NET on Mac OSX
 
-This project shows a simple ASP.NET MVC application running out of the box on Mac OSX.
+This project shows a simple ASP.NET 5 MVC application running out of the box on Mac OSX.
 
 The application has been created using yeoman ``aspnet`` generator.
 
 ## Prerequistes
 
 - Visual Studio Code on Mac OSX
-- ASP.NET Mac OSX
+- ASP.NET 5 Mac OSX
 
 ## Running the application
 
